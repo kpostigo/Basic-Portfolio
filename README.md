@@ -1,3 +1,3 @@
 # portfolio
 
-this repository contains my portfolio site
+this repository contains a basic portfolio site
