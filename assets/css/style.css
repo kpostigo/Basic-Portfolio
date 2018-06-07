@@ -1,0 +1,42 @@
+.header {
+   margin: 0px;
+   padding: 0px;
+}
+
+.myName {
+   background-color: #4aaaa5;
+   color: white;
+   font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+   margin: 0px;
+   float: left;
+   width: 16%;
+}
+
+#name {
+   padding: 12px;
+   margin: 0px;
+}
+
+.navBar {
+
+}
+
+.body {
+
+}
+
+.content {
+
+}
+
+#about {
+
+}
+
+#headshot {
+
+}
+
+#bio {
+
+}
