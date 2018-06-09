@@ -67,3 +67,9 @@ footer {
    border-width: 3px;
    border-color: #4aaaa5;
 }
+
+.clearfix {
+   content: '';
+   display: block;
+   clear: both;
+}
