@@ -61,3 +61,9 @@ li {
    width: 200px;
    height: 200px;
 }
+
+footer {
+   border-top: solid;
+   border-width: 3px;
+   border-color: #4aaaa5;
+}
