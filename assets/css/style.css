@@ -10,7 +10,7 @@ header {
    background-color: white;
    padding: 0px;
    margin: 0px;
-   height: 67px;
+   display: flex;
    border-bottom: solid;
    border-width: 2px;
    border-color: #cccccc;
