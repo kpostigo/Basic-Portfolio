@@ -2,7 +2,7 @@ body {
    margin: 0px;
    padding: 0px;
    font-family: 'Arial', 'Helvetica Neue',  Helvetica, sans-serif;
-   background-color: yellow;
+   background-image: url("../images/texture.png");
    color: #777777;
 }
 
@@ -13,6 +13,7 @@ header {
    height: 67px;
    border-bottom: solid;
    border-width: 2px;
+   border-color: #cccccc;
 }
 
 div {
@@ -46,6 +47,13 @@ li {
    margin: 0px;
    display: inline;
    vertical-align: middle;
+}
+
+.content {
+   background-color: white;
+   border: solid;
+   border-width: 1px;
+   border-color: #dddddd;
 }
 
 #headshot {
