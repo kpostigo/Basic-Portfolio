@@ -53,6 +53,11 @@ li {
    vertical-align: middle;
 }
 
+a {
+   color: #9da0a5;
+   text-decoration: none;
+}
+
 #link {
    border-left: solid;
    border-right: solid;
@@ -83,7 +88,12 @@ li {
    float: left;
    width: 200px;
    height: 200px;
-   margin: 20px 10px 10px 0px;
+   margin: 20px 20px 10px 0px;
+}
+
+#bio {
+   margin-top: 20px;
+   line-height: 130%;
 }
 
 footer {
