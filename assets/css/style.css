@@ -4,6 +4,7 @@ body {
    font-family: 'Arial', 'Helvetica Neue',  Helvetica, sans-serif;
    background-image: url("../images/texture.png");
    color: #777777;
+   position: relative;
 }
 
 header {
@@ -103,6 +104,13 @@ a {
    line-height: 200%;
 }
 
+.push {
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   height: 100%;
+}
+
 footer {
    border-top: solid;
    border-width: 10px;
@@ -113,6 +121,7 @@ footer {
    text-align: center;
    background-color: #666666;
    color: #9da0a5;
+   margin-top: 90px;
 }
 
 #cr {
@@ -120,8 +129,9 @@ footer {
    padding: 0px;
 }
 
+/* fix this for portfolio and contact */
 .other {
-   position: absolute;
+   position: fixed;
    bottom: 0;
    left: 0;
 }
