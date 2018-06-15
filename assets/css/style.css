@@ -145,8 +145,7 @@ footer {
 }
 
 .projects {
-   display: flex;
-   flex-direction: column;
+   display: block;
    margin: 0px;
    padding: 0px;
    height: 100%;
@@ -160,6 +159,7 @@ footer {
 #snackshop,
 #reminder,
 #rowshow {
+   float: left;
    width: 200px;
    height: 150px;
    margin: 20px 30px 30px 30px;
