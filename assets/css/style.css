@@ -69,6 +69,8 @@ a {
 
 .content-container {
    display: flex;
+   flex-direction: column;
+   width: 960px;
    margin-bottom: 50px;
    margin-left: auto;
    margin-right: auto;
